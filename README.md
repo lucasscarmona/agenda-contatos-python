@@ -37,8 +37,7 @@ Antes de começar, você precisará ter o [Git](https://git-scm.com) e o [Python
    cd agenda-contatos-python
 
 5. **Execute o arquivo principal:**
-   ```
-   python agenda_contatos.py
+   `python agenda_contatos.py`
 
 ## 👨‍💻 Autor
 
